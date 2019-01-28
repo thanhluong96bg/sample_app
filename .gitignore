@@ -29,7 +29,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+<<<<<<< HEAD
 
 # Ignore file test and dâtbase.yml
 /test
 /config/database.yml
+=======
+>>>>>>> init_project
